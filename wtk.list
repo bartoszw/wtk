@@ -1,0 +1,4 @@
+Calculator.hs
+ReadEither.hs
+Text/PrettyShow.hs
+Text/WtkParser.hs
